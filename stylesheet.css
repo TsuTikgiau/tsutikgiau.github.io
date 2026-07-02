@@ -129,3 +129,15 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.inline-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 4px;
+  vertical-align: text-bottom;
+}
+
+.inline-badge img {
+  height: 20px;
+  width: auto;
+}
